@@ -1,0 +1,11 @@
+property_id,address,suburb,property_type_group,bedrooms,bathrooms,parking_spaces,land_area_clean_m2,sale_date,property_notes,ml_prediction_aud
+CHA004,1205/1 Cambridge Lane,Chatswood,Apartment,2,2,1.0,,2026-08-11,Corner apartment; premium finishes described.,1118772.9965037717
+CHA008,3/7 Freeman Road,Chatswood,Apartment,2,2,1.0,,2025-07-23,Large terrace; air conditioning.,1122837.2615163813
+CHA028,102 Millwood Avenue,Chatswood,House,5,3,3.0,963.0,2025-10-09,Full brick; renovated; elevated bush views.,5243108.522580882
+CHA032,40 Beaconsfield Road,Chatswood,House,5,3,4.0,613.0,2025-09-20,Pool; ducted air conditioning; study.,5096444.873763293
+PAR007,44/23 Good Street,Parramatta,Apartment,2,2,2.0,,2025-10-23,Level 7; park views.,722271.6047333414
+PAR018,6813/1A Morton Street,Parramatta,Apartment,2,2,1.0,,2025-10-15,Level 8; study; communal gym.,651698.0449567164
+PAR019,1106/12 Phillip Street,Parramatta,Apartment,2,2,1.0,,2025-10-14,Level 11; north river and stadium views; pool and gym; air conditioning; study.,716901.6777823368
+PEN012,38 Brown Street,Penrith,House,3,1,2.0,588.0,2026-06-19,Original home; renovation opportunity; workshop.,928511.657954913
+PEN013,28 Rawson Avenue,Penrith,House,4,2,2.0,498.0,2026-06-15,Solar; air conditioning; multiple living areas.,1126716.2714895217
+PEN019,25/132 Lethbridge Street,Penrith,Apartment,2,1,1.0,,2026-08-28,Renovated; communal pool; balcony; garage.,611999.0487912956

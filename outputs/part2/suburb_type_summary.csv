@@ -1,0 +1,10 @@
+suburb,property_type_group,count,median,min,max
+Chatswood,Apartment,16,1074000.0,720000,2036000
+Chatswood,House,14,3700000.0,1800000,6250000
+Chatswood,Townhouse,1,1460000.0,1460000,1460000
+Parramatta,Apartment,27,600000.0,405000,855000
+Parramatta,House,2,1545000.0,1480000,1610000
+Parramatta,Townhouse,3,1225000.0,780000,1250000
+Penrith,Apartment,11,555000.0,440000,640000
+Penrith,House,15,1000000.0,802000,1210000
+Penrith,Townhouse,3,820000.0,720000,850000

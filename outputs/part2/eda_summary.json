@@ -1,0 +1,68 @@
+{
+  "development_n": 92,
+  "heldout_n": 10,
+  "median": 852500.0,
+  "mean": 1315884.7826086956,
+  "skewness": 2.4755798263458213,
+  "iqr_lower": -346875.0,
+  "iqr_upper": 2178125.0,
+  "global_outliers": 12,
+  "within_suburb_outliers": 4,
+  "outlier_ids": [
+    "CHA001",
+    "CHA013",
+    "CHA018",
+    "CHA019",
+    "CHA026",
+    "CHA027",
+    "CHA029",
+    "CHA030",
+    "CHA031",
+    "CHA033",
+    "CHA034",
+    "CHA035",
+    "PAR005",
+    "PAR021",
+    "PAR034",
+    "PAR035"
+  ],
+  "numeric_associations": [
+    {
+      "variable": "bedrooms",
+      "paired_n": 92,
+      "spearman": 0.710213747614536
+    },
+    {
+      "variable": "bathrooms",
+      "paired_n": 92,
+      "spearman": 0.2760474548797555
+    },
+    {
+      "variable": "parking_spaces",
+      "paired_n": 89,
+      "spearman": 0.6595552464135666
+    },
+    {
+      "variable": "land_area_clean_m2",
+      "paired_n": 25,
+      "spearman": 0.28079291762894537
+    },
+    {
+      "variable": "living_area_reported_m2",
+      "paired_n": 6,
+      "spearman": 0.5797710356524485
+    },
+    {
+      "variable": "total_area_reported_m2",
+      "paired_n": 13,
+      "spearman": 0.5054945054945055
+    }
+  ],
+  "missing": {
+    "parking_spaces": 3,
+    "land_area_m2": 67,
+    "building_area_reported_m2": 72,
+    "living_area_reported_m2": 86,
+    "total_area_reported_m2": 79
+  }
+}

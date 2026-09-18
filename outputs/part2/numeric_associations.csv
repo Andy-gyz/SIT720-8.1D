@@ -1,0 +1,7 @@
+variable,paired_n,spearman
+bedrooms,92,0.710213747614536
+bathrooms,92,0.2760474548797555
+parking_spaces,89,0.6595552464135666
+land_area_clean_m2,25,0.28079291762894537
+living_area_reported_m2,6,0.5797710356524485
+total_area_reported_m2,13,0.5054945054945055

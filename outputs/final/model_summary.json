@@ -1,0 +1,9 @@
+{
+  "best_model": "Random forest",
+  "selection_metric": "mean five-fold CV MAE",
+  "best_cv_mae": 365547.9120708833,
+  "best_cv_rmse": 725218.4371961423,
+  "best_cv_r2": 0.560408373299121,
+  "development_n": 92,
+  "heldout_n": 10
+}
